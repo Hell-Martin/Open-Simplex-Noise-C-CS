@@ -1,0 +1,5 @@
+\\wsl$\Ubuntu\home\qtmsurt\Project\OpenSimplexNoise-C-CS\obj\Debug\net5.0\OpenSimplexNoise-C-CS.csprojAssemblyReference.cache
+\\wsl$\Ubuntu\home\qtmsurt\Project\OpenSimplexNoise-C-CS\obj\Debug\net5.0\OpenSimplexNoise-C-CS.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl$\Ubuntu\home\qtmsurt\Project\OpenSimplexNoise-C-CS\obj\Debug\net5.0\OpenSimplexNoise-C-CS.AssemblyInfoInputs.cache
+\\wsl$\Ubuntu\home\qtmsurt\Project\OpenSimplexNoise-C-CS\obj\Debug\net5.0\OpenSimplexNoise-C-CS.AssemblyInfo.cs
+\\wsl$\Ubuntu\home\qtmsurt\Project\OpenSimplexNoise-C-CS\obj\Debug\net5.0\OpenSimplexNoise-C-CS.csproj.CoreCompileInputs.cache

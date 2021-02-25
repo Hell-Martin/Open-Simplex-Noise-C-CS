@@ -1,0 +1,16 @@
+\\wsl$\Ubuntu\home\qtmsurt\Project\OpenSimplexNoise-C-CS\CS\obj\Debug\net5.0\CS.csprojAssemblyReference.cache
+\\wsl$\Ubuntu\home\qtmsurt\Project\OpenSimplexNoise-C-CS\CS\obj\Debug\net5.0\CS.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl$\Ubuntu\home\qtmsurt\Project\OpenSimplexNoise-C-CS\CS\obj\Debug\net5.0\CS.AssemblyInfoInputs.cache
+\\wsl$\Ubuntu\home\qtmsurt\Project\OpenSimplexNoise-C-CS\CS\obj\Debug\net5.0\CS.AssemblyInfo.cs
+\\wsl$\Ubuntu\home\qtmsurt\Project\OpenSimplexNoise-C-CS\CS\obj\Debug\net5.0\CS.csproj.CoreCompileInputs.cache
+\\wsl$\Ubuntu\home\qtmsurt\Project\OpenSimplexNoise-C-CS\CS\bin\Debug\net5.0\CS.exe
+\\wsl$\Ubuntu\home\qtmsurt\Project\OpenSimplexNoise-C-CS\CS\bin\Debug\net5.0\CS.deps.json
+\\wsl$\Ubuntu\home\qtmsurt\Project\OpenSimplexNoise-C-CS\CS\bin\Debug\net5.0\CS.runtimeconfig.json
+\\wsl$\Ubuntu\home\qtmsurt\Project\OpenSimplexNoise-C-CS\CS\bin\Debug\net5.0\CS.runtimeconfig.dev.json
+\\wsl$\Ubuntu\home\qtmsurt\Project\OpenSimplexNoise-C-CS\CS\bin\Debug\net5.0\CS.dll
+\\wsl$\Ubuntu\home\qtmsurt\Project\OpenSimplexNoise-C-CS\CS\bin\Debug\net5.0\ref\CS.dll
+\\wsl$\Ubuntu\home\qtmsurt\Project\OpenSimplexNoise-C-CS\CS\bin\Debug\net5.0\CS.pdb
+\\wsl$\Ubuntu\home\qtmsurt\Project\OpenSimplexNoise-C-CS\CS\obj\Debug\net5.0\CS.dll
+\\wsl$\Ubuntu\home\qtmsurt\Project\OpenSimplexNoise-C-CS\CS\obj\Debug\net5.0\ref\CS.dll
+\\wsl$\Ubuntu\home\qtmsurt\Project\OpenSimplexNoise-C-CS\CS\obj\Debug\net5.0\CS.pdb
+\\wsl$\Ubuntu\home\qtmsurt\Project\OpenSimplexNoise-C-CS\CS\obj\Debug\net5.0\CS.genruntimeconfig.cache
